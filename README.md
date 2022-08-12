@@ -1,2 +1,2 @@
 # shiny_dat
-Regresssion mode build in Shiny
+Regresssion model build in Shiny
