@@ -1,2 +1,3 @@
 # shiny_dat
-Regresssion model build in Shiny
+Regression model build in Shiny
+Version 1
