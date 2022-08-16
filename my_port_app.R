@@ -9,7 +9,7 @@ library(bslib)
 
 c_dat <- read.csv("control_data.csv") 
 
-# Define UI for app - plots features for movies
+# Define UI for app ----------------------------------------------------------
 
 ui <- fluidPage(
   theme = bslib::bs_theme(bootswatch = "darkly"),
