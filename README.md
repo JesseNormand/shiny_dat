@@ -3,4 +3,4 @@ This app is demonstrating the utilization of process behavior charts for a busin
 R has a great control package "qcc" to efficiently spin up X-bar and mR charts. 
 In this demonstration I created an interactive app to show how the process may be affected given the new data input.
 
-View web application here: https://jnorm.shinyapps.io/Control_Chart/ 
+View web application here: (https://jnorm.shinyapps.io/new-app/)
